@@ -15,7 +15,7 @@ repositories {
 }
 
 dependencies{
-    implementation 'com.github.dreamsocket:rxbus-java:v1.0'
+    implementation 'com.github.dreamsocket:rxbus-java:v1.0.0'
 }
 ```
 ### Usage
